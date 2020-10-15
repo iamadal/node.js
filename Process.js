@@ -1,1 +1,0 @@
-console.log("This version very stable");
